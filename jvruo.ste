@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site SitePrefVersionMajor="12" SitePrefVersionMinor="0">
+    <localinfo sitename="jvruo" ftporrdsserver="FALSE" mediaqueryfile="" localroot="C:%5CDocuments%20and%20Settings%5Cb%5C%E6%A1%8C%E9%9D%A2%5C4%E2%80%94%E2%80%946.21%20201610042%20%E8%92%9F%E8%92%BB%E2%80%94%E2%80%94%E5%8F%B6%E6%B1%87%E4%BA%98%5CJvruo%5C" assetfolder="C:%5CDocuments%20and%20Settings%5Cb%5C%E6%A1%8C%E9%9D%A2%5C4%E2%80%94%E2%80%946.21%20201610042%20%E8%92%9F%E8%92%BB%E2%80%94%E2%80%94%E5%8F%B6%E6%B1%87%E4%BA%98%5CJvruo%5CSpryAssets%5C" webfontsfolder="C:%5CDocuments%20and%20Settings%5Cb%5C%E6%A1%8C%E9%9D%A2%5C4%E2%80%94%E2%80%946.21%20201610042%20%E8%92%9F%E8%92%BB%E2%80%94%E2%80%94%E5%8F%B6%E6%B1%87%E4%BA%98%5CJvruo%5Cwebfonts%5C" imagefolder="" spacerfilepath="" refreshlocal="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+    <designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+    <sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+    <bcinfo siteid="0" sitename="" secureURL=""/>
+    <fileviewcolumns sharecolumns="FALSE">
+        <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="80" remotewidth="180"/>
+        <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36"/>
+        <column name="Size" align="right" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-2" remotewidth="-2"/>
+        <column name="Type" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60"/>
+        <column name="Modified" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102"/>
+        <column name="Checked%20Out%20By" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1"/>
+</fileviewcolumns>
+    <serverlist/>
+    <cloaking enabled="TRUE" patterns="FALSE">
+        <cloakedfolder folder="dw_php_codehinting.config"/>
+        <cloakedpattern pattern=".fla"/>
+        <cloakedpattern pattern=".psd"/>
+</cloaking>
+    <contributorintegration enabled="FALSE"/>
+</site>

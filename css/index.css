@@ -1,0 +1,56 @@
+.logo {
+	background-color: #0FC;
+	height: 300px;
+	width: 1000px;
+}
+.big {
+	background-color: #C36;
+	height: 500px;
+	width: 1000px;
+}
+.left {
+	background-color: #6F9;
+	float: left;
+	height: 500px;
+	width: 500px;
+}
+.right {
+	background-color: #966;
+}
+.right {
+	background-color: #963;
+	float: right;
+	height: 500px;
+	width: 500px;
+}
+.foot {
+	background-color: #C0F;
+	height: 200px;
+	width: 1000px;
+}
+.zuo {
+	background-color: #FF6;
+	float: left;
+	height: 300px;
+	width: 300px;
+}
+.you {
+	background-color: #FFF;
+	float: right;
+	height: 300px;
+	width: 700px;
+}
+
+.dh {
+	background-color: #0FF;
+	height: 50px;
+	width: 1000px;
+	line-height:50px;font-size:25px; font-weight:bold; background:#FFF;
+	
+}
+
+.dh li{ list-style:none;float:left;width: 230px;}
+
+.dh li a{display:block; width:200px; height:50px; text-align:center; border-radius:15px 15px 15px 15px;background:	#0FF;}
+
+.dh li a:hover {background:	#00008B}
